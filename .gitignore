@@ -1,9 +1,14 @@
+# Temporary Files
 *~
-binary_tree_print.c
-update.sh
-main.c
+
+# Executables
 *
 !*.c
 !*.h
 !*.md
 !*.gitignore
+
+# Specific files
+binary_tree_print.c
+update.sh
+main.c
